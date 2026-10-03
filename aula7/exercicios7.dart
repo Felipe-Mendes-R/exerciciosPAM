@@ -8,7 +8,7 @@ void main() {
 
   // Exercício 1 - Contagem de Pares
   print('\nExercício 1 - Contagem de Pares');
-  for (int i1 = 0; i1 <= 20; i1 += 2) {
+  for (int i1 = 2; i1 <= 20; i1 += 2) {
     print(i1);
   }
   print('--------------------');
@@ -23,7 +23,7 @@ void main() {
 
   // Exercício 3 - Sequência de Múltiplos de 5
   print('\nExercício 3 - Sequência de Múltiplos de 5');
-  for (int i3 = 1; i3 <= 50; i3 += 5) {
+  for (int i3 = 5; i3 <= 50; i3 += 5) {
     print(i3);
   }
   print('--------------------');
